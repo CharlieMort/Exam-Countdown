@@ -22,10 +22,6 @@ function App() {
   
   // date format: DD Mon YEAR HH:MM:SS GMT
 
-  createEffect(() => {
-    console.log(wave());
-  })
-
   return (
     <div className="App">
       <div className="header">
