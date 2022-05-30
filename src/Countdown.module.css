@@ -1,0 +1,9 @@
+.countdown {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .countdown-title {
+    text-align: center;
+  }
